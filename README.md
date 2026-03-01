@@ -1,6 +1,6 @@
 ![hippo](https://i.imgur.com/OMU8e4B.jpeg)
 
-![](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react&link=https://tr.react.dev/)
+![](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react&link=https://twitter.com/kayeradev)](https://twitter.com/kayeradev)
 ![](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&link=https%3A%2F%2Fhtml.com)
 ![](https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript&link=https%3A%2F%2Fhtml.com)
 ![](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&link=https%3A%2F%2Fhtml.com)
