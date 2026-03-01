@@ -7,4 +7,4 @@ Frontend, User Interface Developer
 
 ### <i>Skills</i>
 
-![](https://img.shields.io/badge/HTML--blue?style=for-the-badge&labelColor=black&logo=html5)
+![](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&link=https%3A%2F%2Fhtml.com)
