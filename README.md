@@ -1,4 +1,4 @@
-![hippo](https://i.imgur.com/OMU8e4B.jpeg)
+![hippo](https://i.imgur.com/bq1SNTk.png)
 
 <p align="center">
   <a href="https://react.dev/">
