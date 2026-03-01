@@ -5,7 +5,6 @@
 
 Frontend, User Interface Developer
 
-### <i>Github Statistics</i>
+### <i>Skills</i>
 
-[![Twitter Badge](https://img.shields.io/badge/-Kayera-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kayeradev)](https://twitter.com/kayeradev)
-[![Twitter Badge](https://img.shields.io/badge/-Kayera-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kayeradev)](https://twitter.com/kayeradev)
+![](https://img.shields.io/badge/HTML--blue?style=for-the-badge&labelColor=black&logo=html5)
