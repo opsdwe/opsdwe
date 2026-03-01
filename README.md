@@ -1,6 +1,8 @@
 ![hippo](https://i.imgur.com/OMU8e4B.jpeg)
 
-[![REACT](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react)](https://twitter.com/kayeradev)
+<a href="https://twitter.com/kayeradev">
+  <img src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react" />
+</a>
 
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://html.com)
 
