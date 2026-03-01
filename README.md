@@ -1,6 +1,6 @@
 ![hippo](https://i.imgur.com/OMU8e4B.jpeg)
 
-<a href="https://twitter.com/kayeradev">
+<a href="https://twitter.com/kayeradev" style='text-decoration:none'>
   <img src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react" />
 </a>
 
