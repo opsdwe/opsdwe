@@ -1,6 +1,7 @@
 ![hippo](https://i.imgur.com/nLPBWBm.png)
 
 [![Twitter Badge](https://img.shields.io/badge/-Kayera-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kayeradev)](https://twitter.com/kayeradev)
+[![Twitter Badge](https://img.shields.io/badge/-Kayera-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kayeradev)](https://twitter.com/kayeradev)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About Me</i>
 
