@@ -1,9 +1,12 @@
 ![hippo](https://i.imgur.com/OMU8e4B.jpeg)
 
-![](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react&link=https://twitter.com/kayeradev)
-![](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&link=https%3A%2F%2Fhtml.com)
-![](https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript&link=https%3A%2F%2Fhtml.com)
-![](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&link=https%3A%2F%2Fhtml.com)
+[![REACT](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react)](https://twitter.com/kayeradev)
+
+[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://html.com)
+
+[![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript)](https://html.com)
+
+[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)](https://html.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About Me</i>
