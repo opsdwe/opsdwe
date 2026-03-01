@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1>Tech</h1>
-<p>
+<p style='text-align:center'>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next JS">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
