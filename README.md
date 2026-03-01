@@ -10,5 +10,5 @@
   ![](https://img.shields.io/badge/html-d45e30?style=for-the-badge&logo=html5&logoColor=white)
   ![](https://img.shields.io/badge/php-7c79b1?style=for-the-badge&logo=php&logoColor=white)
   ![](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript)
-  ![](https://img.shields.io/badge/css-3e6db3?style=for-the-badge&logo=css)
+  <img src="https://img.shields.io/badge/css-3e6db3?style=for-the-badge&logo=css3" alt="Badge">
 </p>
