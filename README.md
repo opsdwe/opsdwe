@@ -1,7 +1,5 @@
 ![hippo](https://i.imgur.com/bq1SNTk.png)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <h1>Tech</h1>
 <p align='center'>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
